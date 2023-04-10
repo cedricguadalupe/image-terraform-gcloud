@@ -1,4 +1,4 @@
-FROM gcr.io/google.com/cloudsdktool/google-cloud-cli:425.0.0-alpine
+FROM google/cloud-sdk:425.0.0-alpine
 ENV TF_VERSION=1.4.4
 WORKDIR /
 # Installation terraform
