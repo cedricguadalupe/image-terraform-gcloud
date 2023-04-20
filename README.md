@@ -5,8 +5,8 @@ This is a Docker image that extends the official Google Cloud SDK image with the
 
 ## Versions
 This image is built using the following versions:
- - Google Cloud SDK: 426.0.0
- - Terraform: 1.4.4
+ - Google Cloud SDK: 427.0.0
+ - Terraform: 1.4.5
 
 ## Usage
 To use this image, you will need Docker installed on your system.
