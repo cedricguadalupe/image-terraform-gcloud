@@ -8,6 +8,8 @@ This image is built using the following versions:
  - Google Cloud SDK: 429.0.0
  - Terraform: 1.4.6
 
+Latest version : [![latest](https://img.shields.io/badge/terraform--gcloud-1.4.6--429.0.0-green.svg)](https://hub.docker.com/r/cedricguadalupe/terraform-gcloud)
+
 ## Usage
 To use this image, you will need Docker installed on your system.
 
