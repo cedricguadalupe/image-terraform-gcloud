@@ -1,5 +1,5 @@
-FROM google/cloud-sdk:434.0.0-alpine
-ENV TF_VERSION=1.4.6
+FROM google/cloud-sdk:435.0.0-alpine
+ENV TF_VERSION=1.5.0
 WORKDIR /
 # Installation terraform
 RUN mkdir -p /usr/lib/terraform/${TF_VERSION} \
